@@ -1,0 +1,22 @@
+    /* .prev::before{
+        background-color: black;
+      position:  absolute;
+        height: 40px;
+        width: 40px;
+        content: "";
+        border-radius: 100%;
+        z-index: -10;    
+        top: -10px;
+
+    }
+    .prev::after{
+        background-color: yellow;
+        position:  absolute;
+          height: 40px;
+          width: 40px;
+          content: "";
+          border-radius: 100%;
+          z-index: -10;    
+          top: -10px;
+  
+    } */
